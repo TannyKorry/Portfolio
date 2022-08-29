@@ -1,5 +1,5 @@
 # *Татьяна Корчагина*
-                                    ![](https://raw.githubusercontent.com/TannyKorry/Portfolio/main/photo.bmp)
+                                    ![](https://raw.githubusercontent.com/TannyKorry/Portfolio/main/photo.jpg)
 
 ### О себе:
 - Высшее техническое образование
