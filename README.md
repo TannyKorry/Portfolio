@@ -1,6 +1,6 @@
 # *Татьяна Корчагина*
 
-![](C:\Users\SMKRa\Desktop\Обучение Python\Портфолио\photo.jpg)
+![](https://github.com/TannyKorry/Portfolio/blob/main/photo.jpg)
 
 ### О себе:
 - Высшее техническое образование
