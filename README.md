@@ -1,11 +1,11 @@
 
-# *Татьяна Корчагина*
+# *Меня зовут Татьяна*
 
 
-![https://github.com/TannyKorry/Portfolio/blob/main/photo.jpg](https://github.com/TannyKorry/Portfolio/blob/main/photo.jpg)
+![](https://github.com/TannyKorry/git-2-homeworks-fork/blob/main/img/artificial-intelligence.jpg)
 
 
 ### О себе:
 	- Высшее техническое образование
 	- Работаю начальником отдела в торговой фирме
-	- Учусь в Нетологии по программе "Python-разработчик с нуля"
+	- Осваиваю новую профессию в Нетологии
