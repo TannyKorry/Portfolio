@@ -2,7 +2,7 @@
 # *Меня зовут Татьяна*
 
 
-![](https://github.com/TannyKorry/git-2-homeworks-fork/blob/main/img/artificial-intelligence.jpg)
+![photo](https://user-images.githubusercontent.com/112023120/188234648-4455d23f-2f4e-401a-b585-92b557989ec5.jpg)
 
 
 ### О себе:
