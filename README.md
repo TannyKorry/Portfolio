@@ -2,7 +2,7 @@
 # *Меня зовут Татьяна*
 
 
-![photo](https://user-images.githubusercontent.com/112023120/188234648-4455d23f-2f4e-401a-b585-92b557989ec5.jpg)
+![](https://github.com/TannyKorry/Portfolio/blob/main/photo.jpg?raw=true)
 
 
 ### О себе:
